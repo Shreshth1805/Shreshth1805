@@ -148,13 +148,14 @@ Mission:
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shreshth1805&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
+-->
 
 ---
 
