@@ -189,15 +189,6 @@ Mission:
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shreshth1805/Shreshth1805/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
 ---
 
 # 🎯 Current Learning Roadmap
