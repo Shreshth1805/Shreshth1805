@@ -78,26 +78,6 @@ Open To:
 
 ---
 
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express"/>
-
-</p>
-
----
-
 ## AI / ML
 
 <p>
@@ -169,24 +149,12 @@ Open To:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreshth1805&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
----
-
 # ⚡ Most Used Languages
+<p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,jupyter,js,ts"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshth1805&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+</p>
 ---
 
 # 📫 Connect With Me
@@ -197,11 +165,11 @@ Open To:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="/https://www.linkedin.com/in/shreshth-verma-4b20a1378/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shreshthverma1805@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -211,7 +179,7 @@ Open To:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 > Building intelligent software for the future.
 
