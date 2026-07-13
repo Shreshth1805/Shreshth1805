@@ -170,9 +170,8 @@ Open To:
 
 # ⚡ Most Used Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,jupyter,js,ts"/>
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter" />
 </p>
 ---
 
