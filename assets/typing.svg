@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="70"
+     viewBox="0 0 900 70">
+
+  <defs>
+
+    <linearGradient id="typingGradient">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#10B981"/>
+
+      <animateTransform
+          attributeName="gradientTransform"
+          type="rotate"
+          values="0 .5 .5;360 .5 .5"
+          dur="15s"
+          repeatCount="indefinite"/>
+
+    </linearGradient>
+
+  </defs>
+
+  <rect width="900"
+        height="70"
+        rx="12"
+        fill="transparent"/>
+
+  <text x="20"
+        y="45"
+        font-size="28"
+        font-family="JetBrains Mono, monospace"
+        fill="url(#typingGradient)">
+
+    AI Engineer
+
+    <animate
+        attributeName="opacity"
+        values="1;1;1;0;0;0;1"
+        dur="15s"
+        repeatCount="indefinite"/>
+
+  </text>
+
+  <text x="20"
+        y="45"
+        font-size="28"
+        font-family="JetBrains Mono, monospace"
+        fill="url(#typingGradient)"
+        opacity="0">
+
+    Machine Learning Engineer
+
+    <animate
+        attributeName="opacity"
+        values="0;0;1;1;1;0;0"
+        dur="15s"
+        repeatCount="indefinite"/>
+
+  </text>
+
+  <text x="20"
+        y="45"
+        font-size="28"
+        font-family="JetBrains Mono, monospace"
+        fill="url(#typingGradient)"
+        opacity="0">
+
+    Full Stack Developer
+
+    <animate
+        attributeName="opacity"
+        values="0;0;0;0;1;1;0"
+        dur="15s"
+        repeatCount="indefinite"/>
+
+  </text>
+
+  <rect x="430"
+        y="18"
+        width="10"
+        height="32"
+        fill="#22D3EE">
+
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="0.8s"
+        repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
