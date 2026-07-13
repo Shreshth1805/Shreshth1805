@@ -77,6 +77,23 @@ Open To:
 </p>
 
 ---
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
+---
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="48" />
+</p>
+---
+
+### Deployment & API Testing
+<p>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="Postman" />
+</p>
 
 ## AI / ML
 
@@ -89,6 +106,8 @@ Open To:
 - LangChain
 - Hugging Face
 - OpenAI API
+- GROQ
+- Ollama
 - Scikit-Learn
 - Pandas
 - NumPy
