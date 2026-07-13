@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1180"
+    height="610"
+    viewBox="0 0 1180 610">
+
+    <defs>
+
+        <radialGradient id="particleGlow">
+            <stop offset="0%" stop-color="#22D3EE"/>
+            <stop offset="100%" stop-color="#7C3AED"/>
+        </radialGradient>
+
+    </defs>
+
+    <rect
+        width="1180"
+        height="610"
+        fill="transparent"/>
+
+    <!-- Particle 1 -->
+    <circle cx="120" cy="500" r="2" fill="url(#particleGlow)" opacity=".6">
+        <animate attributeName="cy"
+                 values="500;60;500"
+                 dur="18s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="opacity"
+                 values=".2;.8;.2"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 2 -->
+    <circle cx="240" cy="120" r="2.5" fill="url(#particleGlow)" opacity=".4">
+        <animate attributeName="cy"
+                 values="120;540;120"
+                 dur="20s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 3 -->
+    <circle cx="360" cy="450" r="1.8" fill="url(#particleGlow)">
+        <animate attributeName="cy"
+                 values="450;90;450"
+                 dur="14s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 4 -->
+    <circle cx="480" cy="250" r="2" fill="#22D3EE">
+        <animate attributeName="cx"
+                 values="480;520;480"
+                 dur="6s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 5 -->
+    <circle cx="610" cy="530" r="2" fill="#10B981">
+        <animate attributeName="cy"
+                 values="530;80;530"
+                 dur="15s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 6 -->
+    <circle cx="730" cy="140" r="2.3" fill="#22D3EE">
+        <animate attributeName="cy"
+                 values="140;560;140"
+                 dur="17s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 7 -->
+    <circle cx="850" cy="420" r="2" fill="#7C3AED">
+        <animate attributeName="cy"
+                 values="420;100;420"
+                 dur="13s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 8 -->
+    <circle cx="940" cy="220" r="2" fill="#22D3EE">
+        <animate attributeName="cx"
+                 values="940;980;940"
+                 dur="9s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 9 -->
+    <circle cx="1030" cy="520" r="2.5" fill="#10B981">
+        <animate attributeName="cy"
+                 values="520;120;520"
+                 dur="16s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Particle 10 -->
+    <circle cx="1100" cy="300" r="2" fill="#7C3AED">
+        <animate attributeName="cy"
+                 values="300;540;300"
+                 dur="11s"
+                 repeatCount="indefinite"/>
+    </circle>
+
+</svg>
