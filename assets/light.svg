@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1180"
+     height="610"
+     viewBox="0 0 1180 610"
+     role="img"
+     aria-label="Shreshth Verma GitHub Banner (Light)">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+
+      <animateTransform
+        attributeName="gradientTransform"
+        type="rotate"
+        values="0 .5 .5;360 .5 .5"
+        dur="18s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+  </defs>
+
+  <rect width="1180"
+        height="610"
+        rx="30"
+        fill="url(#bg)"/>
+
+  <!-- Background Glows -->
+
+  <circle cx="170"
+          cy="120"
+          r="180"
+          fill="#3B82F6"
+          opacity=".08">
+    <animate attributeName="r"
+             values="180;220;180"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="980"
+          cy="520"
+          r="200"
+          fill="#10B981"
+          opacity=".08">
+    <animate attributeName="r"
+             values="200;250;200"
+             dur="9s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Left Panel -->
+
+  <rect x="45"
+        y="45"
+        width="360"
+        height="520"
+        rx="24"
+        fill="#F8FAFC"
+        stroke="#E2E8F0"/>
+
+  <g filter="url(#glow)">
+
+    <text x="85"
+          y="120"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+███████╗
+    </text>
+
+    <text x="85"
+          y="145"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+██╔════╝
+    </text>
+
+    <text x="85"
+          y="170"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+███████╗
+    </text>
+
+    <text x="85"
+          y="195"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+╚════██║
+    </text>
+
+    <text x="85"
+          y="220"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+███████║
+    </text>
+
+    <text x="85"
+          y="245"
+          font-family="monospace"
+          font-size="18"
+          fill="url(#accent)">
+╚══════╝
+    </text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -8;0 0"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+  <text x="80"
+        y="325"
+        font-family="monospace"
+        font-size="17"
+        fill="#475569">
+&gt; SYSTEM ONLINE
+  </text>
+
+  <text x="80"
+        y="355"
+        font-family="monospace"
+        font-size="17"
+        fill="#475569">
+&gt; AI MODE ENABLED
+  </text>
+
+  <!-- Right Panel -->
+
+  <rect x="445"
+        y="45"
+        width="690"
+        height="520"
+        rx="24"
+        fill="#FFFFFF"
+        stroke="#CBD5E1"/>
+
+  <text x="490"
+        y="110"
+        font-family="Segoe UI"
+        font-size="26"
+        fill="#0F172A">
+
+Hi 👋
+
+  </text>
+
+  <text x="490"
+        y="155"
+        font-family="Segoe UI"
+        font-size="42"
+        font-weight="700"
+        fill="#0F172A">
+
+I'm Shreshth Verma
+
+  </text>
+
+  <text x="490"
+        y="210"
+        font-family="monospace"
+        font-size="24"
+        fill="url(#accent)">
+
+AI Engineer |
+
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+  <text x="490"
+        y="265"
+        font-size="18"
+        fill="#475569">
+📍 India
+  </text>
+
+  <text x="490"
+        y="300"
+        font-size="18"
+        fill="#475569">
+🎓 Computer Science
+  </text>
+
+  <text x="490"
+        y="335"
+        font-size="18"
+        fill="#475569">
+🚀 AI • ML • FastAPI • GenAI
+  </text>
+
+  <text x="490"
+        y="370"
+        font-size="18"
+        fill="#475569">
+🌐 github.com/Shreshth1805
+  </text>
+
+  <!-- Skills -->
+
+  <g font-family="Segoe UI"
+     font-size="15">
+
+    <rect x="490" y="430" width="95" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="515" y="452" fill="#2563EB">Python</text>
+
+    <rect x="600" y="430" width="95" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="620" y="452" fill="#2563EB">FastAPI</text>
+
+    <rect x="710" y="430" width="90" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="736" y="452" fill="#2563EB">React</text>
+
+    <rect x="815" y="430" width="95" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="839" y="452" fill="#2563EB">Docker</text>
+
+    <rect x="925" y="430" width="110" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="944" y="452" fill="#2563EB">Postgres</text>
+
+  </g>
+
+  <text x="490"
+        y="520"
+        font-size="18"
+        fill="#64748B">
+GitHub • LinkedIn • Portfolio
+  </text>
+
+</svg>
