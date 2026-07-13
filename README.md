@@ -79,7 +79,7 @@ Open To:
 ---
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=streamlit" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit"/>
 </p>
 ---
 
