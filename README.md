@@ -157,17 +157,6 @@ Open To:
 </div>
 
 ---
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshth1805&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 # ⚡ Most Used Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts" />
