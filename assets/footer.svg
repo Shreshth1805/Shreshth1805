@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170">
+<defs><linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#e6c36a" stop-opacity="0"/><stop offset="0.5" stop-color="#e6c36a"/><stop offset="1" stop-color="#b3264a"/></linearGradient>
+<filter id="gl" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect width="1000" height="170" fill="#08060f"/>
+<path d="M0 70H260l12-4 10 4h30l10-8 8 8h20l10 4 12-4h30l14 0 8-48 14 96 12-72 10 24h40H620l12-4 10 4h30l10-8 8 8h20l12 4 12-4h30H1000" fill="none" stroke="#2a2140" stroke-width="2"/>
+<path d="M0 70H260l12-4 10 4h30l10-8 8 8h20l10 4 12-4h30l14 0 8-48 14 96 12-72 10 24h40H620l12-4 10 4h30l10-8 8 8h20l12 4 12-4h30H1000" fill="none" stroke="url(#e)" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820" filter="url(#gl)"><animate attributeName="stroke-dashoffset" from="180" to="-820" dur="3.5s" repeatCount="indefinite"/></path>
+<path d="M0 70H260l12-4 10 4h30l10-8 8 8h20l10 4 12-4h30l14 0 8-48 14 96 12-72 10 24h40H620l12-4 10 4h30l10-8 8 8h20l12 4 12-4h30H1000" fill="none" stroke="url(#e)" stroke-width="2.5" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="180" to="-820" dur="3.5s" repeatCount="indefinite"/></path>
+<text x="500" y="130" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#d8d2e6" text-anchor="middle" letter-spacing="1">// thanks for stopping by — let's build something great together</text>
+<text x="500" y="154" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#9a93ab" text-anchor="middle">return 0;  <tspan fill="#e6c36a">/* EOF */</tspan></text>
+</svg>
