@@ -50,7 +50,7 @@
 - Google · Amazon · Apple
 
 **⚡ Philosophy**
-> *Ship things that are both smart and beautiful.*
+> **
 
 </td>
 </tr>
@@ -85,7 +85,6 @@
 <td><a href="https://github.com/Shreshth1805?tab=repositories"><img src="./assets/p2.svg" width="100%" alt="AirGuard"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Shreshth1805?tab=repositories"><img src="./assets/p3.svg" width="100%" alt="Cafe Razzmatazz"/></a></td>
 <td><a href="https://github.com/Shreshth1805?tab=repositories"><img src="./assets/p4.svg" width="100%" alt="Malaria Cell Classifier"/></a></td>
 </tr>
 <tr>
@@ -125,29 +124,6 @@
 <img src="https://streak-stats.demolab.com?user=Shreshth1805&hide_border=true&background=0a0e17&ring=00e5ff&fire=ff2e97&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=7c4dff&dates=8b949e" />
 
 </div>
-
-<details>
-<summary><b>📈 Expand contribution graph</b></summary>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshth1805&bg_color=0a0e17&color=00e5ff&line=7c4dff&point=ff2e97&area=true&area_color=7c4dff&hide_border=true" width="100%" />
-
-</details>
-
-<details>
-<summary><b>🏆 Expand trophies</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shreshth1805&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-</details>
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt=""/>
-</div>
-
 ## `> snake --eat contributions`
 
 <div align="center">
